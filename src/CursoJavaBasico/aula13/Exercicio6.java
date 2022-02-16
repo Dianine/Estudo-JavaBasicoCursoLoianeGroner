@@ -12,9 +12,9 @@ public class Exercicio6 {
 		System.out.println("Entre com Raio: ");
 		double raio = sc.nextDouble();
 		
-		double area = Math.PI * Math.pow(raio, 2); //(raio x potencia)
+		double area = Math.PI * Math.pow(raio, 2); //função PI e (raio x potencia)
 		
-		System.out.printf("A area é:" + area);
+		System.out.printf("A area é de :" + area);
 
 	}
 
