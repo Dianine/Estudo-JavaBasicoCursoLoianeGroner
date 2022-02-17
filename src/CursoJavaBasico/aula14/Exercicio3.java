@@ -21,10 +21,9 @@ public class Exercicio3 {
 			System.out.println("Sexo Inválido");
 		}
 
+		
 	}
 
-	
-
-	}
+}
 
 
